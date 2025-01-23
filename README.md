@@ -26,7 +26,7 @@
 - **[2024.7.11]** 💻 [**Source code released**] featuring "STEMM LLMs in Your Pocket" and "Benchmarking Multilingual STEMM LLMs".
 
 ## 📚 Table of Contents
-
+ 
 - [Installation](#-installation)
 - [Quick Start](#-quick-start)
   - [Train Lightweight Models](#-train-lightweight-models)
