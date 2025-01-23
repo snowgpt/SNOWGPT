@@ -316,7 +316,7 @@ To download your model or files from Hugging Face repo,
 python download_model.py --repo "diving-deep/DrGemma2B" --repo_type "model" --save_dir "./save_folder"
 ```
 
-### Made with ❤️ by the SNOW Dive Lab
+### Made with ❤️ by the SNOW Lab
 
 [⬆️ Back to Top](#-SNOWGPT)
 
