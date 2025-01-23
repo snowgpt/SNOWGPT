@@ -4,7 +4,7 @@
 
 ### An Audio-Augmented Large Language Model for Research & Education
 
-<img width="250px" src="figures/SNOWGPT.png" alt="SNOWGPT Logo">
+<img width="250px" src="figures/SNOWgptt.png" alt="SNOWGPT Logo">
 
 [![Code License](https://img.shields.io/badge/Code%20License-AGPL%203.0-green.svg)](https://www.gnu.org/licenses/agpl-3.0.en.html)
 [![Data License](https://img.shields.io/badge/Data%20License-CC%20BY%204.0-red.svg)](https://creativecommons.org/licenses/by/4.0/)
